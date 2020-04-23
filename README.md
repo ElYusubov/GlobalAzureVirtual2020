@@ -1,0 +1,1 @@
+# GlobalAzureVirtual2020
